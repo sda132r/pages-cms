@@ -1,6 +1,6 @@
 # Pages CMS
 
-[Pages CMS](https://pagescms.org) is an Open Source Content Management System built for static websites (Jekyll, Next.js, VuePress, Hugo, etc).
+[Pages CMS](https://pagescms.org) is an Open Source Content Management System built for static websites (Jekyll, Next.js, VuePress, Hugo, etc)
 
 It allows you to edit your website's content directly on GitHub via a user-friendly interface.
 
